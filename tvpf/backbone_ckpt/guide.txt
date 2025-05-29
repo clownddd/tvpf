@@ -1,1 +1,0 @@
-Here you will put pre-trained ckpt of ViT.
